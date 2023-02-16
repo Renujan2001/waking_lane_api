@@ -1,0 +1,41 @@
+D:\Nekfa\tender-api\tender-api\bin\api-boutique.dll.config
+D:\Nekfa\tender-api\tender-api\bin\api-boutique.dll
+D:\Nekfa\tender-api\tender-api\bin\api-boutique.pdb
+D:\Nekfa\tender-api\tender-api\bin\DevOne.Security.Cryptography.BCrypt.dll
+D:\Nekfa\tender-api\tender-api\bin\Newtonsoft.Json.dll
+D:\Nekfa\tender-api\tender-api\bin\System.Net.Http.Formatting.dll
+D:\Nekfa\tender-api\tender-api\bin\System.Web.Cors.dll
+D:\Nekfa\tender-api\tender-api\bin\System.Web.Http.Cors.dll
+D:\Nekfa\tender-api\tender-api\bin\System.Web.Http.dll
+D:\Nekfa\tender-api\tender-api\bin\System.Web.Http.WebHost.dll
+D:\Nekfa\tender-api\tender-api\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\Nekfa\tender-api\tender-api\bin\Newtonsoft.Json.xml
+D:\Nekfa\tender-api\tender-api\bin\System.Net.Http.Formatting.xml
+D:\Nekfa\tender-api\tender-api\bin\System.Web.Http.xml
+D:\Nekfa\tender-api\tender-api\bin\System.Web.Http.Cors.xml
+D:\Nekfa\tender-api\tender-api\bin\WebApiContrib.Formatting.Jsonp.pdb
+D:\Nekfa\tender-api\tender-api\bin\System.Web.Http.WebHost.xml
+D:\Nekfa\tender-api\tender-api\obj\Debug\tender_api.csprojResolveAssemblyReference.cache
+D:\Nekfa\tender-api\tender-api\obj\Debug\api-boutique.dll
+D:\Nekfa\tender-api\tender-api\obj\Debug\api-boutique.pdb
+E:\Work\git hub save\tender_api\Source\tender-api\bin\api-boutique.dll.config
+E:\Work\git hub save\tender_api\Source\tender-api\bin\api-boutique.dll
+E:\Work\git hub save\tender_api\Source\tender-api\bin\api-boutique.pdb
+E:\Work\git hub save\tender_api\Source\tender-api\bin\DevOne.Security.Cryptography.BCrypt.dll
+E:\Work\git hub save\tender_api\Source\tender-api\bin\Newtonsoft.Json.dll
+E:\Work\git hub save\tender_api\Source\tender-api\bin\System.Net.Http.Formatting.dll
+E:\Work\git hub save\tender_api\Source\tender-api\bin\System.Web.Cors.dll
+E:\Work\git hub save\tender_api\Source\tender-api\bin\System.Web.Http.Cors.dll
+E:\Work\git hub save\tender_api\Source\tender-api\bin\System.Web.Http.dll
+E:\Work\git hub save\tender_api\Source\tender-api\bin\System.Web.Http.WebHost.dll
+E:\Work\git hub save\tender_api\Source\tender-api\bin\WebApiContrib.Formatting.Jsonp.dll
+E:\Work\git hub save\tender_api\Source\tender-api\bin\Newtonsoft.Json.xml
+E:\Work\git hub save\tender_api\Source\tender-api\bin\System.Net.Http.Formatting.xml
+E:\Work\git hub save\tender_api\Source\tender-api\bin\System.Web.Http.xml
+E:\Work\git hub save\tender_api\Source\tender-api\bin\System.Web.Http.Cors.xml
+E:\Work\git hub save\tender_api\Source\tender-api\bin\WebApiContrib.Formatting.Jsonp.pdb
+E:\Work\git hub save\tender_api\Source\tender-api\bin\System.Web.Http.WebHost.xml
+E:\Work\git hub save\tender_api\Source\tender-api\obj\Debug\tender_api.csprojResolveAssemblyReference.cache
+E:\Work\git hub save\tender_api\Source\tender-api\obj\Debug\api-boutique.dll
+E:\Work\git hub save\tender_api\Source\tender-api\obj\Debug\api-boutique.pdb
+E:\Work\git hub save\tender_api\Source\tender-api\bin\MySql.Data.dll

@@ -1,0 +1,88 @@
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\api-boutique.dll.config
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\api-boutique.dll
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\api-boutique.XmlSerializers.dll
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\api-boutique.pdb
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\DevOne.Security.Cryptography.BCrypt.dll
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\Newtonsoft.Json.dll
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Net.Http.Formatting.dll
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Web.Cors.dll
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Web.Http.Cors.dll
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Web.Http.dll
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Web.Http.WebHost.dll
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\WebApiContrib.Formatting.Jsonp.dll
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\Newtonsoft.Json.xml
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Net.Http.Formatting.xml
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Web.Http.xml
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Web.Http.Cors.xml
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\WebApiContrib.Formatting.Jsonp.pdb
+E:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Web.Http.WebHost.xml
+E:\Nekfa Project\Business-Tax-api\api-boutique\obj\Release\api_business_tax.csprojResolveAssemblyReference.cache
+E:\Nekfa Project\Business-Tax-api\api-boutique\obj\Release\api-boutique.dll
+E:\Nekfa Project\Business-Tax-api\api-boutique\obj\Release\api-boutique.pdb
+E:\Nekfa Project\Business-Tax-api\api-boutique\obj\Release\api-boutique.XmlSerializers.dll
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\api-boutique.dll.config
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\api-boutique.dll
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\api-boutique.XmlSerializers.dll
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\api-boutique.pdb
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\DevOne.Security.Cryptography.BCrypt.dll
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\Newtonsoft.Json.dll
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Net.Http.Formatting.dll
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Web.Cors.dll
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Web.Http.Cors.dll
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Web.Http.dll
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Web.Http.WebHost.dll
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\Newtonsoft.Json.xml
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Net.Http.Formatting.xml
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Web.Http.xml
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Web.Http.Cors.xml
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\WebApiContrib.Formatting.Jsonp.pdb
+D:\Nekfa Project\Business-Tax-api\api-boutique\bin\System.Web.Http.WebHost.xml
+D:\Nekfa Project\Business-Tax-api\api-boutique\obj\Release\api_business_tax.csprojResolveAssemblyReference.cache
+D:\Nekfa Project\Business-Tax-api\api-boutique\obj\Release\api-boutique.dll
+D:\Nekfa Project\Business-Tax-api\api-boutique\obj\Release\api-boutique.pdb
+D:\Nekfa Project\Business-Tax-api\api-boutique\obj\Release\api-boutique.XmlSerializers.dll
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\api-boutique.dll.config
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\api-boutique.dll
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\api-boutique.XmlSerializers.dll
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\api-boutique.pdb
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\DevOne.Security.Cryptography.BCrypt.dll
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\Newtonsoft.Json.dll
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\System.Net.Http.Formatting.dll
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\System.Web.Cors.dll
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\System.Web.Http.Cors.dll
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\System.Web.Http.dll
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\System.Web.Http.WebHost.dll
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\Newtonsoft.Json.xml
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\System.Net.Http.Formatting.xml
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\System.Web.Http.xml
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\System.Web.Http.Cors.xml
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\WebApiContrib.Formatting.Jsonp.pdb
+D:\Nekfa Project\regular-tax-api\api-business-tax\bin\System.Web.Http.WebHost.xml
+D:\Nekfa Project\regular-tax-api\api-business-tax\obj\Release\api_business_tax.csprojResolveAssemblyReference.cache
+D:\Nekfa Project\regular-tax-api\api-business-tax\obj\Release\api-boutique.dll
+D:\Nekfa Project\regular-tax-api\api-business-tax\obj\Release\api-boutique.pdb
+D:\Nekfa Project\regular-tax-api\api-business-tax\obj\Release\api-boutique.XmlSerializers.dll
+D:\NEW_API\regular-tax-api\api-business-tax\bin\api-boutique.dll.config
+D:\NEW_API\regular-tax-api\api-business-tax\bin\api-boutique.dll
+D:\NEW_API\regular-tax-api\api-business-tax\bin\api-boutique.XmlSerializers.dll
+D:\NEW_API\regular-tax-api\api-business-tax\bin\api-boutique.pdb
+D:\NEW_API\regular-tax-api\api-business-tax\bin\DevOne.Security.Cryptography.BCrypt.dll
+D:\NEW_API\regular-tax-api\api-business-tax\bin\Newtonsoft.Json.dll
+D:\NEW_API\regular-tax-api\api-business-tax\bin\System.Net.Http.Formatting.dll
+D:\NEW_API\regular-tax-api\api-business-tax\bin\System.Web.Cors.dll
+D:\NEW_API\regular-tax-api\api-business-tax\bin\System.Web.Http.Cors.dll
+D:\NEW_API\regular-tax-api\api-business-tax\bin\System.Web.Http.dll
+D:\NEW_API\regular-tax-api\api-business-tax\bin\System.Web.Http.WebHost.dll
+D:\NEW_API\regular-tax-api\api-business-tax\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\NEW_API\regular-tax-api\api-business-tax\bin\Newtonsoft.Json.xml
+D:\NEW_API\regular-tax-api\api-business-tax\bin\System.Net.Http.Formatting.xml
+D:\NEW_API\regular-tax-api\api-business-tax\bin\System.Web.Http.xml
+D:\NEW_API\regular-tax-api\api-business-tax\bin\System.Web.Http.Cors.xml
+D:\NEW_API\regular-tax-api\api-business-tax\bin\WebApiContrib.Formatting.Jsonp.pdb
+D:\NEW_API\regular-tax-api\api-business-tax\bin\System.Web.Http.WebHost.xml
+D:\NEW_API\regular-tax-api\api-business-tax\obj\Release\api_business_tax.csprojResolveAssemblyReference.cache
+D:\NEW_API\regular-tax-api\api-business-tax\obj\Release\api-boutique.dll
+D:\NEW_API\regular-tax-api\api-business-tax\obj\Release\api-boutique.pdb
+D:\NEW_API\regular-tax-api\api-business-tax\obj\Release\api-boutique.XmlSerializers.dll

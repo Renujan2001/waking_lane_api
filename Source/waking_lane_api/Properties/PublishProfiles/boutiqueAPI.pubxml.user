@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Nekfa02\Desktop\btapi</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/api-boutique.dll">
+      <publishTime>09/15/2021 18:52:57</publishTime>
+    </File>
+    <File Include="bin/api-boutique.XmlSerializers.dll">
+      <publishTime>09/15/2021 18:52:58</publishTime>
+    </File>
+    <File Include="bin/DevOne.Security.Cryptography.BCrypt.dll">
+      <publishTime>08/24/2021 18:52:08</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>08/24/2021 18:52:08</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/24/2021 18:52:08</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>08/24/2021 18:52:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>08/24/2021 18:52:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>08/24/2021 18:52:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>08/24/2021 18:52:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>08/24/2021 18:52:08</publishTime>
+    </File>
+    <File Include="bin/WebApiContrib.Formatting.Jsonp.dll">
+      <publishTime>08/24/2021 18:52:08</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/24/2021 18:52:08</publishTime>
+    </File>
+    <File Include="Help-doc.aspx">
+      <publishTime>08/24/2021 18:52:08</publishTime>
+    </File>
+    <File Include="HelpAPI.aspx">
+      <publishTime>08/24/2021 18:52:08</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/24/2021 18:52:08</publishTime>
+    </File>
+    <File Include="TestMail.aspx">
+      <publishTime>08/24/2021 18:52:08</publishTime>
+    </File>
+    <File Include="Web References/com.nekfa.service.sms/Reference.map">
+      <publishTime>08/24/2021 18:52:08</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/26/2021 17:10:49</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

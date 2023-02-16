@@ -1,0 +1,119 @@
+D:\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.dll.config
+D:\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.dll
+D:\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.pdb
+D:\boutique-api-service\api-boutique\api-boutique\bin\DevOne.Security.Cryptography.BCrypt.dll
+D:\boutique-api-service\api-boutique\api-boutique\bin\MySql.Data.dll
+D:\boutique-api-service\api-boutique\api-boutique\bin\Newtonsoft.Json.dll
+D:\boutique-api-service\api-boutique\api-boutique\bin\System.Net.Http.Formatting.dll
+D:\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Cors.dll
+D:\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.Cors.dll
+D:\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.dll
+D:\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.WebHost.dll
+D:\boutique-api-service\api-boutique\api-boutique\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\boutique-api-service\api-boutique\api-boutique\bin\Newtonsoft.Json.xml
+D:\boutique-api-service\api-boutique\api-boutique\bin\System.Net.Http.Formatting.xml
+D:\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.xml
+D:\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.Cors.xml
+D:\boutique-api-service\api-boutique\api-boutique\bin\WebApiContrib.Formatting.Jsonp.pdb
+D:\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.WebHost.xml
+D:\boutique-api-service\api-boutique\api-boutique\obj\Debug\api-boutique.dll
+D:\boutique-api-service\api-boutique\api-boutique\obj\Debug\api-boutique.pdb
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.dll.config
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.dll
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.pdb
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\bin\DevOne.Security.Cryptography.BCrypt.dll
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\bin\Newtonsoft.Json.dll
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\bin\System.Net.Http.Formatting.dll
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Cors.dll
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.Cors.dll
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.dll
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.WebHost.dll
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\bin\WebApiContrib.Formatting.Jsonp.dll
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\bin\Newtonsoft.Json.xml
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\bin\System.Net.Http.Formatting.xml
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.xml
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.Cors.xml
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\bin\WebApiContrib.Formatting.Jsonp.pdb
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.WebHost.xml
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\obj\Debug\api-boutique.dll
+H:\DOLANI-PROJECT\boutique-api-service\api-boutique\api-boutique\obj\Debug\api-boutique.pdb
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.dll.config
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.dll
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.pdb
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\DevOne.Security.Cryptography.BCrypt.dll
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\MySql.Data.dll
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\Newtonsoft.Json.dll
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\System.Net.Http.Formatting.dll
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Cors.dll
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.Cors.dll
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.dll
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.WebHost.dll
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\Newtonsoft.Json.xml
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\System.Net.Http.Formatting.xml
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.xml
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.Cors.xml
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\WebApiContrib.Formatting.Jsonp.pdb
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.WebHost.xml
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\obj\Debug\api-boutique.dll
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\obj\Debug\api-boutique.pdb
+D:\12_4_2020\boutique-api-service\api-boutique\api-boutique\obj\Debug\api-boutique.csprojResolveAssemblyReference.cache
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.dll.config
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.dll
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.pdb
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\DevOne.Security.Cryptography.BCrypt.dll
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\MySql.Data.dll
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\Newtonsoft.Json.dll
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\System.Net.Http.Formatting.dll
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Cors.dll
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.Cors.dll
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.dll
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.WebHost.dll
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\Newtonsoft.Json.xml
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\System.Net.Http.Formatting.xml
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.xml
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.Cors.xml
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\WebApiContrib.Formatting.Jsonp.pdb
+D:\11_12\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.WebHost.xml
+D:\11_12\boutique-api-service\api-boutique\api-boutique\obj\Debug\api-boutique.csprojResolveAssemblyReference.cache
+D:\11_12\boutique-api-service\api-boutique\api-boutique\obj\Debug\api-boutique.dll
+D:\11_12\boutique-api-service\api-boutique\api-boutique\obj\Debug\api-boutique.pdb
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.dll.config
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.dll
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.pdb
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\bin\DevOne.Security.Cryptography.BCrypt.dll
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\bin\Newtonsoft.Json.dll
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\bin\System.Net.Http.Formatting.dll
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Cors.dll
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.Cors.dll
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.dll
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.WebHost.dll
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\bin\WebApiContrib.Formatting.Jsonp.dll
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\bin\Newtonsoft.Json.xml
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\bin\System.Net.Http.Formatting.xml
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.xml
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.Cors.xml
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\bin\WebApiContrib.Formatting.Jsonp.pdb
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.WebHost.xml
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\obj\Debug\api-boutique.dll
+G:\Nekfa Projects Code\boutique-api-service\api-boutique\api-boutique\obj\Debug\api-boutique.pdb
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.dll.config
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.dll
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\bin\api-boutique.pdb
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\bin\DevOne.Security.Cryptography.BCrypt.dll
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\bin\Newtonsoft.Json.dll
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\bin\System.Net.Http.Formatting.dll
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Cors.dll
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.Cors.dll
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.dll
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.WebHost.dll
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\bin\Newtonsoft.Json.xml
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\bin\System.Net.Http.Formatting.xml
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.xml
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.Cors.xml
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\bin\WebApiContrib.Formatting.Jsonp.pdb
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\bin\System.Web.Http.WebHost.xml
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\obj\Debug\api-boutique.dll
+D:\Nekfa Project\boutique-api-service\api-boutique\api-boutique\obj\Debug\api-boutique.pdb
