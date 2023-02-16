@@ -12,6 +12,7 @@ namespace waking_lane_api
              //Web API configuration and services
             config.EnableCors();
 
+            //test
              //Web API routes
             config.MapHttpAttributeRoutes();
 
